@@ -20,6 +20,7 @@ public class Input4 {
 		String names = null;
 		String phones = null;
 		
+		
 		System.out.print("이름을 입력해 주세요.(여러명 입력 가능): ");
 		names = scanner.nextLine();
 		System.out.print("연락처를 입력해 주세요.(여러개 입력 가능): ");
