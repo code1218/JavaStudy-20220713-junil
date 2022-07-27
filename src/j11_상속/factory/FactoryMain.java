@@ -13,6 +13,8 @@ public class FactoryMain {
 		lgFactories[1] = new LGFactory(2);
 		lgFactories[2] = new LGFactory(3);
 		
+		Factory f = samsungFactories[0];
+		
 		System.out.println("삼성 공장 가동");
 		for(int i = 0; i < samsungFactories.length; i++) {
 			samsungFactories[i].start();

@@ -25,6 +25,8 @@ public class FactoryMain2 {
 			factories[i].stop();
 		}
 		
+		
+		
 	}
 }
 
