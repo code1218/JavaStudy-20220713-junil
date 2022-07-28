@@ -21,6 +21,4 @@ public class FactoryService {
 		this.factory = factory;
 	}
 	
-	
-	
 }
