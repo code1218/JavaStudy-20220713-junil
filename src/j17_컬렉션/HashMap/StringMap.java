@@ -37,7 +37,6 @@ public class StringMap {
 			System.out.println(arg.getKey());
 			System.out.println(arg.getValue());
 		});
-
 	}
 
 }
