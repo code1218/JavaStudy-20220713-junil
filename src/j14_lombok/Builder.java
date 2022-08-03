@@ -1,6 +1,18 @@
 package j14_lombok;
 
 public class Builder extends CarBuilder {
+	
+	@Override
+	public CarBuilder builder() {
+		// TODO Auto-generated method stub
+		return super.builder();
+	}
+	
+	@Override
+	public Car build() {
+		// TODO Auto-generated method stub
+		return super.build();
+	}
 
 	@Override
 	public CarBuilder company(String company) {
