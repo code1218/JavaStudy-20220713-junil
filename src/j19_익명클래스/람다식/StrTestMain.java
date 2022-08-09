@@ -32,6 +32,33 @@ public class StrTestMain {
 		Function<Integer, String> f = (num) -> Integer.toString(num);
 		
 		System.out.println(f.apply(100));
+		
+		/////////////////////////////////////
+		
+		int num = 10;
+		
+		int num2 = 20;
+		
+		System.out.println(num + num2);
+		
+		
+		
+		
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

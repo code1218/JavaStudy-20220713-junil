@@ -41,7 +41,6 @@ public class Main {
 		System.out.println(plusMath3.calc(50.22, 10.1));
 
 	}
-
 }
 
 
