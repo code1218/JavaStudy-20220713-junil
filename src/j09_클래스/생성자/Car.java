@@ -6,6 +6,7 @@ public class Car {
 	String color;
 	
 	public Car() {
+		
 	}
 	
 	public Car(String company, String model, String color) {
@@ -13,6 +14,8 @@ public class Car {
 		this.model = model;
 		this.color = color;
 	}
+	
+	
 
 	void showCarInfo() {
 		System.out.println("회사명: " + company);
